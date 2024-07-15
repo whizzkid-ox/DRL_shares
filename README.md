@@ -10,4 +10,4 @@ This project implements a stock trading strategy for the Japanese stock market u
 - stable-baselines3  
 
 ```bash
-pip install yfinance stable-baselines3
+pip install yfinance numpy pandas stable-baselines3 gym
